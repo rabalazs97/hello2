@@ -1,2 +1,2 @@
 <?php
-    echo "Trying from laptop";
+    echo "Trying from laptop!";
